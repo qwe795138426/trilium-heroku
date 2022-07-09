@@ -6,7 +6,7 @@ deploy [trilium](https://github.com/zadam/trilium) to [heroku](https://heroku.co
 
 ### OneKey deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fqwe795138426%2Ftrilium-heroku))
 
 ### manual deploy
 
